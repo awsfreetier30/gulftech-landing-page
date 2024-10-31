@@ -1,0 +1,6 @@
+This directory is for static assets like images.
+
+Recommended logo specs:
+- Dimensions: 240x80px
+- Format: SVG or PNG with transparency
+- File name: logo.png or logo.svg
